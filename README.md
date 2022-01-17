@@ -25,7 +25,17 @@
 <<<<<<< HEAD (Current Change)
 
 This is your local change. It conflicts with the Incoming Change (from GitHub) listed below it
-  ~Accept Current Change
-  ~Accept Incoming Change
-  ~Accept Both Changes
-  ~Compare changes
+
+  *Accept Current Change
+
+  *Accept Incoming Change
+
+  *Accept Both Changes
+
+  *Compare changes
+
+11. Add the file that caused the conflict
+
+12. Commit your changes
+
+13. Now you can push your changes..
