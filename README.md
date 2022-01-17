@@ -36,6 +36,6 @@
 
 11. Add the file that caused the conflict
 
-12. Commit your changes
+12. Commit your changes..
 
-13. Now you can push your changes..
+13. Now you can push your changes..!
