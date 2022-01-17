@@ -22,17 +22,17 @@
 
 10. Open the offending file (referenced in the conflict error) in VS Code. You'll find the following string highlighted on the page:
 
-<<<<<<< HEAD (Current Change)
+       <<<<<<< HEAD (Current Change)
 
-This is your local change. It conflicts with the Incoming Change (from GitHub) listed below it
+    This is your local change. It conflicts with the Incoming Change (from GitHub) listed below it
 
-  *Accept Current Change
+       * Accept Current Change
 
-  *Accept Incoming Change
+       * Accept Incoming Change
 
-  *Accept Both Changes
+       * Accept Both Changes
 
-  *Compare changes
+       * Compare changes
 
 11. Add the file that caused the conflict
 
